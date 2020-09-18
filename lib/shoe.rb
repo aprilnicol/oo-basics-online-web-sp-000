@@ -10,7 +10,7 @@ class Shoe
 def cobble
   if cobble == new
   puts "Your shoe is as good as new!"
-else 
+else
 end
 end
 end 
