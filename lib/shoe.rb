@@ -8,9 +8,8 @@ class Shoe
     @brand
   end
 def cobble
-  if cobble == new
   puts "Your shoe is as good as new!"
-else
+
 end
 end
-end 
+
